@@ -1,5 +1,5 @@
-Hi, I’m Russell
-I’m interested in design and coding.
+Hi, I’m Russell.  
+I’m interested in design and coding.  
 Currently practicing web development and learning the basics.
 
 <!---
