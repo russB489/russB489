@@ -1,5 +1,6 @@
-Hi, I’m Russell  
-Some of my many interests are coding, design, photography, video games, chess, space...  
+I’m Russell  
+
+Some of my interests are coding, design, photography, video games, chess, space...  
 Currently practicing web development and learning the basics
 
 <!---
