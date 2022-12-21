@@ -1,7 +1,7 @@
 I’m Russell  
 
 Some of my interests are coding, design, photography, video games, chess, space...  
-Currently practicing web development and learning the basics
+Currently practicing web development and programming.
 
 <!---
 russB489/russB489 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
